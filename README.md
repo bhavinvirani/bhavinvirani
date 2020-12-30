@@ -6,7 +6,7 @@
 - 🌱 currently I'm `learning`
 - 🥅 2021 Goal: Contribute to Open Source stuff
 - 👯 I’m looking to collaborate on JS project
-- 📪 How to rach me: `bhavinvirani45@gmail.com` 
+- 📪 How to reach me: `bhavinvirani45@gmail.com` 
   
 ***
 <a target="_blank" href="https://www.linkedin.com/in/bhavin-virani-2a14441b7/">
