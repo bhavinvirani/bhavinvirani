@@ -1,7 +1,5 @@
 ## Hi there, I'm Bhavin 👋🏻
 
-[![HitCount](http://hits.dwyl.com/bhavinvirani/bhavinvirani.svg)](http://hits.dwyl.com/bhavinvirani/bhavinvirani)
-
 ### I'm Student 
 - 🌱 currently I'm `learning`
 - 🥅 2021 Goal: Contribute to Open Source stuff
