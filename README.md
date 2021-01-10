@@ -1,6 +1,6 @@
-## Hi there, I'm Bhavin 👋🏻
+## Hi there 👋🏻
 
-### I'm Student 
+### I'm Bhavin
 - 🌱 currently I'm `learning`
 - 🥅 2021 Goal: Contribute to Open Source stuff
 - 👯 I’m looking to collaborate on JS project
