@@ -2,7 +2,7 @@
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
 </div>  
 <h1 align="center">Hi 👋, I'm Bhavin!</h1>
-<h3 align="center">A Passionate Developer & Researcher from India!😀<br> I 💻, 🌎 and ♥!</h3>
+<!-- <h3 align="center">A Passionate Developer & Researcher from India!😀<br> I 💻, 🌎 and ♥!</h3> -->
 
 - 🌱 currently I'm `learning`
 - 🥅 2021 Goal: Contribute to Open Source stuff
